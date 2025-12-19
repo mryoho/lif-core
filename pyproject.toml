@@ -21,6 +21,7 @@ dependencies = [
     "langgraph~=0.4",
     "langgraph-prebuilt~=0.2",
     "langmem~=0.0",
+    "mcp>=1.10,<2.0",
     "mcp-graphql~=0.3",
     "mkdocs-material~=9.6",
     "numpy~=2.3",
